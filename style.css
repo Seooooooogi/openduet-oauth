@@ -1,0 +1,4 @@
+:root { color-scheme: light dark; }
+body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 16px; line-height: 1.6; }
+h1 { font-size: 1.6rem; } h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+footer { margin-top: 2.5rem; font-size: .9rem; opacity: .75; }
