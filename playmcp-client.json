@@ -1,0 +1,10 @@
+{
+  "client_id": "https://seooooooogi.github.io/openduet-oauth/playmcp-client.json",
+  "client_name": "OpenDuet (personal)",
+  "client_uri": "https://seooooooogi.github.io/openduet-oauth/",
+  "policy_uri": "https://seooooooogi.github.io/openduet-oauth/privacy.html",
+  "redirect_uris": ["http://localhost:3001/api/plugins/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
